@@ -170,13 +170,13 @@ Kemudian buat database baru dan import ulang `schema.sql`.
 - Pastikan folder temp session disimpan memiliki permission write
 
 📄 License
-Project ini dibuat untuk keperluan tugas kuliah UAS Pemrograman Web.
+- Project ini dibuat untuk keperluan tugas kuliah UAS Pemrograman Web.
 
 👨‍💻 Developer
-Nama: Muhammad Naufal
-NIM: 202410715252
-Mata Kuliah: Pemrograman Web
-Tahun: 2026
+- Nama: Muhammad Naufal
+- NIM: 202410715252
+- Mata Kuliah: Pemrograman Web
+- Tahun: 2026
 
 ## 📞 Support
 
